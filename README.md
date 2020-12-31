@@ -1,2 +1,2 @@
 # appbrewery
-Selecting a name
+Practical application of new concepts to generate names.
